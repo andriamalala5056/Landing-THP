@@ -31,6 +31,8 @@ Ce projet a été realiser par l'équipe de Madagascar.
 
 ## Liens Heroku
 On n'a pas pu pusher Heroku cause faute technique (faute de connexion)
+Mais on vous faire parvenir notre screen shoot : 
+![title](https://image.noelshack.com/fichiers/2018/20/5/1526623538-capture-du-2018-05-18-09-03-49.png)
 
 Pour faire fonctionner le programme :
 - cloner le repo
@@ -41,4 +43,5 @@ Pour faire fonctionner le programme :
 - enjoy
 
 version Ruby 2.5.0
+
 Merci au super correcteur
