@@ -1,0 +1,2 @@
+class Visiteur < ApplicationRecord
+end
