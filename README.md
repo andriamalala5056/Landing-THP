@@ -30,5 +30,15 @@ Ce projet a été realiser par l'équipe de Madagascar.
 3. Les gens ordinaires     
 
 ## Liens Heroku
-- [Landing page principale](http://www.heroku.com)
-- [Landing page 1](http://www.heroku.com)
+On n'a pas pu pusher Heroku cause faute technique (faute de connexion)
+
+Pour faire fonctionner le programme :
+- cloner le repo
+- cd dans le projet
+- faire bundle install
+- rails db migrate
+- rails server
+- enjoy
+
+version Ruby 2.5.0
+Merci au super correcteur
